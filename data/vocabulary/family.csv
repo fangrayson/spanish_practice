@@ -1,0 +1,48 @@
+english_singular,english_plural,spanish_singular,spanish_plural,gender
+brother,brothers,hermano,hermanos,m
+sister,sisters,hermana,hermanas,f
+older brother,older brothers,hermano mayor,hermanos mayores,m
+older sister,older sisters,hermana mayor,hermanas mayores,f
+younger brother,younger brothers,hermano menor (hermanito),hermanos menores (hermanitos),m
+younger sister,younger sisters,hermana menor (hermanita),hermanas menores (hermanitas),f
+son,sons,hijo,hijos,m
+daughter,daughters,hija,hijas,f
+child,children,hijo,hijos,m
+wife,wives,esposa (mujer),esposas (mujeres),f
+husband,husbands,esposo (marido),esposos (maridos),m
+married couple,married couples,matrimonio,matrimonios,m
+couple,couples,pareja,parejas,f
+partner,partners,pareja,parejas,f
+mother,mothers,madre,madres,f
+father,fathers,padre,padres,m
+grandfather,grandfathers,abuelo,abuelos,m
+grandmother,grandmothers,abuela,abuelas,f
+great grandfather,great grandfathers,bisabuelo,bisabuelos,m
+great grandmother,great grandmothers,bisabuela,bisabuelas,f
+great great grandfather,great great grandfathers,tatarabuelo,tatarabuelos,m
+great great grandmother,great great grandmothers,tatarabuela,tatarabuelas,f
+grandson,grandsons,nieto,nietos,m
+granddaughter,granddaughters,nieta,nietas,f
+great grandson,great grandsons,bisnieto,bisnietos,m
+great granddaughter,great granddaughters,bisnieta,bisnietas,m
+great great grandson,great great grandsons,tataranieto,tataranietos,m
+great great granddaughter,great great granddaughters,tataranieta,tataranietas,m
+boyfriend,boyfriends,novio,novios,m
+girlfriend,girlfriends,novia,novias,f
+cousin (masculine),cousins (masculine),primo,primos,m
+cousin (feminine),cousins (feminine),prima,primas,f
+nephew,nephews,sobrino,sobrinos,m
+niece,nieces,sobrina,sobrinas,f
+uncle,uncles,tío,tíos,m
+aunt,aunts,tía,tías,f
+great uncle,great uncles,tío abuelo,tíos abuelos,m
+great aunt,great aunts,tía abuela,tías abuelas,f
+woman,women,mujer,mujeres,f
+man,men,hombre,hombres,m
+boy,boys,chico,chicos,m
+girl,girls,chica,chicas,f
+baby,babys,bebé,bebes,m
+(little) boy,boys,niño,niños,m
+(little) girl,girls,niña,niñas,f
+friend (masculine),friends (masculine),amigo,amigos,m
+friend (feminine),friends (feminine),amiga,amigas,f
